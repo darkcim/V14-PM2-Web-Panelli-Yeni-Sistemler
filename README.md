@@ -67,10 +67,4 @@ ve buraya yazmadığım 2-3 arkadaşlarımada teşekkürlerimi iletiyorum.
 
 # Siteden Görüntüler
 
-![image](https://github.com/user-attachments/assets/826a773f-cb58-4b7e-805b-a663f40d1385)
-![image](https://github.com/user-attachments/assets/b9307300-c25f-4c69-9208-9d142d8eed9d)
-![image](https://github.com/user-attachments/assets/cd3b92ce-398f-4d35-8826-837b411d0b78)
-![image](https://github.com/user-attachments/assets/60947b9b-5af0-4dd1-aa5e-54e3b7cc2bb2)
-![image](https://github.com/user-attachments/assets/725bc935-b35e-463d-b520-9ec3f14c6fdb)
-
 [![Discord Profilim](https://lanyard.cnrad.dev/api/901094423033708576)](https://discord.com/users/901094423033708576)
